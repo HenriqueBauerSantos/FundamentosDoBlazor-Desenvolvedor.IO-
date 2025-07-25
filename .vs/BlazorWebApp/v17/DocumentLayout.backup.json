@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|d:\\\u00E1rea de trabalho\\estudos\\cursos\\desenvolvedorio\\2025\\fundamentos do blazor\\blazorwebapp\\blazorwebapp\\components\\databinding\\twowaybinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|solutionrelative:blazorwebapp\\components\\databinding\\twowaybinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|d:\\\u00E1rea de trabalho\\estudos\\cursos\\desenvolvedorio\\2025\\fundamentos do blazor\\blazorwebapp\\blazorwebapp\\components\\rendermodes\\rendermodeauto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|solutionrelative:blazorwebapp\\components\\rendermodes\\rendermodeauto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|d:\\\u00E1rea de trabalho\\estudos\\cursos\\desenvolvedorio\\2025\\fundamentos do blazor\\blazorwebapp\\blazorwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|solutionrelative:blazorwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|d:\\\u00E1rea de trabalho\\estudos\\cursos\\desenvolvedorio\\2025\\fundamentos do blazor\\blazorwebapp\\blazorwebapp\\components\\databinding\\onewaybinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|solutionrelative:blazorwebapp\\components\\databinding\\onewaybinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|d:\\\u00E1rea de trabalho\\estudos\\cursos\\desenvolvedorio\\2025\\fundamentos do blazor\\blazorwebapp\\blazorwebapp\\components\\databinding\\eventbinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|solutionrelative:blazorwebapp\\components\\databinding\\eventbinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|d:\\\u00E1rea de trabalho\\estudos\\cursos\\desenvolvedorio\\2025\\fundamentos do blazor\\blazorwebapp\\blazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AEAB5E7-EA9F-4434-A762-F32F9732F978}|BlazorWebApp\\BlazorWebApp.csproj|solutionrelative:blazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "BlazorWebApp\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "BlazorWebApp\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-24T00:03:05.795Z",
+              "WhenOpened": "2025-07-25T01:11:00.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TwoWayBinding.razor",
-              "DocumentMoniker": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\DataBinding\\TwoWayBinding.razor",
-              "RelativeDocumentMoniker": "BlazorWebApp\\Components\\DataBinding\\TwoWayBinding.razor",
-              "ToolTip": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\DataBinding\\TwoWayBinding.razor",
-              "RelativeToolTip": "BlazorWebApp\\Components\\DataBinding\\TwoWayBinding.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Title": "RenderModeAuto.razor",
+              "DocumentMoniker": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\RenderModes\\RenderModeAuto.razor",
+              "RelativeDocumentMoniker": "BlazorWebApp\\Components\\RenderModes\\RenderModeAuto.razor",
+              "ToolTip": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\RenderModes\\RenderModeAuto.razor",
+              "RelativeToolTip": "BlazorWebApp\\Components\\RenderModes\\RenderModeAuto.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T23:44:23.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OneWayBinding.razor",
-              "DocumentMoniker": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\DataBinding\\OneWayBinding.razor",
-              "RelativeDocumentMoniker": "BlazorWebApp\\Components\\DataBinding\\OneWayBinding.razor",
-              "ToolTip": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\DataBinding\\OneWayBinding.razor",
-              "RelativeToolTip": "BlazorWebApp\\Components\\DataBinding\\OneWayBinding.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T23:36:06.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventBinding.razor",
-              "DocumentMoniker": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\DataBinding\\EventBinding.razor",
-              "RelativeDocumentMoniker": "BlazorWebApp\\Components\\DataBinding\\EventBinding.razor",
-              "ToolTip": "D:\\\u00C1rea de trabalho\\Estudos\\Cursos\\DesenvolvedorIO\\2025\\Fundamentos do Blazor\\BlazorWebApp\\BlazorWebApp\\Components\\DataBinding\\EventBinding.razor",
-              "RelativeToolTip": "BlazorWebApp\\Components\\DataBinding\\EventBinding.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T23:34:14.713Z",
+              "WhenOpened": "2025-07-25T01:07:57.288Z",
               "EditorCaption": ""
             }
           ]

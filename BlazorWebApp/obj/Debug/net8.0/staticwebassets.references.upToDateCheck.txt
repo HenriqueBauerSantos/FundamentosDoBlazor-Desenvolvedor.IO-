@@ -4,3 +4,11 @@ D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\B
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json

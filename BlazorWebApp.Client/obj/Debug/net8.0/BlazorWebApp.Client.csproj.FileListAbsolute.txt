@@ -1020,9 +1020,6 @@ D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\B
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\g7bxfykb6d-tptq2av103.gz
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\kml90vyxxx-lfu7j35m59.gz
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\jwidndlpoq-oyz0vx2fzb.gz
-D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\g3yv09h5o9-uqco7m5djk.gz
-D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\p7asu6wb1b-azdlrn1k99.gz
-D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\r94ehykway-sz1cz1oqcx.gz
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.development.json
@@ -1033,3 +1030,7 @@ D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\B
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\refint\BlazorWebApp.Client.dll
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\BlazorWebApp.Client.pdb
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\ref\BlazorWebApp.Client.dll
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\BlazorWebApp.Client.sourcelink.json
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\g3yv09h5o9-7hqs89dgcp.gz
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\p7asu6wb1b-8onl1mpl4q.gz
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\compressed\r94ehykway-d89l1qzdt3.gz

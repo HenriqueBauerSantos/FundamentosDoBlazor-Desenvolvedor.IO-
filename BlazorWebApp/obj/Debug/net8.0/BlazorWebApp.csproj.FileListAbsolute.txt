@@ -65,3 +65,4 @@ D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\B
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.genruntimeconfig.cache
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp\obj\Debug\net8.0\ref\BlazorWebApp.dll
 D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\Footer.razor.rz.scp.css
+D:\Área de trabalho\Estudos\Cursos\DesenvolvedorIO\2025\Fundamentos do Blazor\BlazorWebApp\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.sourcelink.json
